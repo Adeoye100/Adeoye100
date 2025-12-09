@@ -1,17 +1,15 @@
-👋 Hello,I’m Adeoye Opeyemi also known as **Adeoye100**
+👋 Hello, I’m Adeoye Opeyemi, also known as **Adeoye100**,
+I focus on web design and smart software that solves problems and meets the tastes of my audience.
 
-💡 I focus on web design and smart software that solves problems and meet the taste of my audience.
+I'm learning daily, growing in tech, and building my path as a software engineer.
+I enjoy the pain of fixing bugs, building projects from scratch or existing ones, and tackling real challenges with code.
 
-🌍 I learn daily, grow in tech, and build my path as a software engineer
+ Contact me @:
+ ✉ adeoyeopeyemi951@gmail.com
+ ✆ (+234) 812 406 8599
+ Chat on WhatsApp
 
-🛠️ I enjoy fixing bugs, starting projects from scratch, and tackling real challenges with code
-
-📬 Contact me
-📧 adeoyeopeyemi951@gmail.com
-📞 (+234) 812 406 8599
-💬 Chat on WhatsApp
-
-⚡ My drive is simple Create. Innovate. Inspire through 
+My drive is simple: Create. Learn. Inspire 
 
 ---
 <!---
